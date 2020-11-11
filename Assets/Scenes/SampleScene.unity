@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 533224528}
   m_Layer: 0
   m_Name: Reinhardt
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -501,7 +501,7 @@ GameObject:
   - component: {fileID: 1142210361}
   m_Layer: 0
   m_Name: Doomfist
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
